@@ -1,0 +1,1125 @@
+
+Begin optimization report for: HYDRO_MOD::UPDATEHYDRO
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(1165,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1165,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(1165,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(1165,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1194,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1194,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1194,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1194,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1194,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1222,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1222,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1222,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1222,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1222,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1251,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1251,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1251,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1251,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1251,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1279,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1279,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1279,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1279,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1279,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1307,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1307,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1307,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1307,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1307,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1336,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1336,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1336,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1336,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1336,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1364,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1364,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1364,7)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1364,7)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1364,7)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1372,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1373,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1375,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1375,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1388,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1389,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1391,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1391,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1397,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1398,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1400,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1400,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::SETIJRUV
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(2879,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2896,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2913,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::WCTS_ITPI
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(2657,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2657,7)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2662,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2662,7)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::GETMASK_RHO
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2789,7)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::GETUVXY
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2807,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2808,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2809,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2810,7)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::GETR_ELE
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2829,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+<Multiversioned v1>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+<Multiversioned v2>
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(2830,7)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::INITHYDRO
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(691,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(691,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(691,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(692,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(692,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(692,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(692,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(693,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(693,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(693,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(693,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(694,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(694,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(694,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(694,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(695,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(695,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(695,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(695,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(696,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(696,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(696,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(696,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(697,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(697,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(697,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(697,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(698,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(698,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(698,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(698,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(780,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(780,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(780,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(780,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(780,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(809,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(809,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(809,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(809,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(809,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(838,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(838,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(838,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(838,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(838,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(867,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(867,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(867,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(867,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(867,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(896,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(896,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(896,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(896,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(896,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(925,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(925,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(925,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(925,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(925,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(954,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(954,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(954,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(954,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(954,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(983,9)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(983,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(983,9)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(983,9)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(983,9)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1023,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1024,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1026,11)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1026,11)
+      <Remainder>
+         remark #15301: REMAINDER LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1026,11)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(1034,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(1035,9)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(1037,11)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1037,11)
+      <Remainder>
+         remark #15301: REMAINDER LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(1037,11)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: HYDRO_MOD::INITGRID
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at hydrodynamic_module.f90(347,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(347,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(347,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(347,5)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(347,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(348,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(348,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(348,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(348,5)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(348,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(349,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(349,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(349,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(349,5)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(349,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(382,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(383,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(383,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(383,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(383,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(394,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(395,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(395,7)
+      <Peeled, Multiversioned v2>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(395,7)
+      <Multiversioned v2>
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(395,7)
+      <Multiversioned v2>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(395,7)
+      <Remainder, Multiversioned v2>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(405,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(406,7)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at hydrodynamic_module.f90(406,7)
+      <Peeled, Multiversioned v2>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(406,7)
+      <Multiversioned v2>
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(406,7)
+      <Multiversioned v2>
+      LOOP END
+
+      LOOP BEGIN at hydrodynamic_module.f90(406,7)
+      <Remainder, Multiversioned v2>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(417,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(418,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(418,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(429,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(430,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(430,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(441,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(442,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(442,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(455,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(468,9)
+      remark #15301: BLOCK WAS VECTORIZED
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(478,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(491,9)
+      remark #15301: BLOCK WAS VECTORIZED
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(501,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(514,9)
+      remark #15301: BLOCK WAS VECTORIZED
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(524,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(525,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(525,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(525,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(525,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(537,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(538,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(538,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(538,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(538,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(549,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(550,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(550,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(550,7)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at hydrodynamic_module.f90(550,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(561,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(562,7)
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(568,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(569,7)
+   LOOP END
+LOOP END
+
+LOOP BEGIN at hydrodynamic_module.f90(575,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at hydrodynamic_module.f90(576,7)
+   LOOP END
+LOOP END
+===========================================================================

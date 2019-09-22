@@ -1,0 +1,10 @@
+
+Begin optimization report for: GRIDCELL_MOD::GRIDCELL
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at gridcell_module.f90(47,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+===========================================================================

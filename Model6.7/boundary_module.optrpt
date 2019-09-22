@@ -1,0 +1,266 @@
+
+Begin optimization report for: BOUNDARY_MOD::CREATEBOUNDS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at boundary_module.f90(209,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(210,5)
+      remark #25460: No loop optimizations reported
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(230,3)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(230,3)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(235,3)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(235,3)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(245,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(246,5)
+      remark #15301: BLOCK WAS VECTORIZED
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(245,3)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(279,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(280,5)
+   <Distributed chunk1>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(280,5)
+   <Remainder, Distributed chunk1>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(280,5)
+   <Distributed chunk2>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(280,5)
+   <Distributed chunk3>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(324,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(325,9)
+      remark #25460: No loop optimizations reported
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(325,9)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1934,5) inlined into boundary_module.f90(1025,8)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(1934,5) inlined into boundary_module.f90(1025,8)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1934,5) inlined into boundary_module.f90(1025,8)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1934,5) inlined into boundary_module.f90(1025,8)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1938,5) inlined into boundary_module.f90(1025,8)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1938,5) inlined into boundary_module.f90(1025,8)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1044,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(1044,3)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1044,3)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1044,3)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1047,3)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1047,3)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1057,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(1057,3)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1057,3)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1057,3)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1064,5)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1064,5)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1064,5)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1165,3)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1165,3)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1165,3)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: BOUNDARY_MOD::OUTPUT_LLBOUNDS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at boundary_module.f90(2006,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(2006,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(2006,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(2006,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(2010,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(2010,5)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: BOUNDARY_MOD::MBOUNDS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at boundary_module.f90(1529,5)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1529,5)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1529,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1529,5)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: BOUNDARY_MOD::IBOUNDS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at boundary_module.f90(1595,11)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1595,11)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1595,11)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1595,11)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: BOUNDARY_MOD::OUTPUT_XYBOUNDS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at boundary_module.f90(1934,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at boundary_module.f90(1934,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1934,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at boundary_module.f90(1934,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1938,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at boundary_module.f90(1938,5)
+<Remainder>
+LOOP END
+===========================================================================

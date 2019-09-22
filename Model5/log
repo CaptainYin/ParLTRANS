@@ -1,0 +1,67 @@
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 360.000
+  Particles:             = 608
+  Particle File:         = ./input/Initial_particle_locations.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = On
+  Settlement:            = On
+  Habitat File:          = ./input/End_polygons.csv
+  Hole File:             = ./input/End_holes.csv
+  
+  Horizontal Turbulence: = On
+  Vertical Turbulence:   = On
+  Projection:            = Spherical
+  Ocean Boundary:        = Open
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/glob1.00/Data/roms_grd.nc                         
+                                                                                
+                                           
+  First Hydro File:      = 
+ /vol/home/student/YinHQ/roms/glob1.00/Output/Y20/glob_his_0004.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations         608
+   Particle n=5 Latitude=   37.2761608977490      Longitude=
+  -76.2108564098010     
+   Particle n=5 Depth= -0.250000000000000     
+   Particle n=5 X=   158478.510347711      Y=   253375.629570209     
+   Particle n=5 Start Polygon=      101001
+ read-in grid information
+ create elements
+ find adjacent elements
+  - rho
+  - u
+  - v
+ prepare boundary arrays
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libintlc.so.5      00002AD163583961  Unknown               Unknown  Unknown
+libintlc.so.5      00002AD1635820B7  Unknown               Unknown  Unknown
+libifcore.so.5     00002AD161F591D2  Unknown               Unknown  Unknown
+libifcore.so.5     00002AD161F59026  Unknown               Unknown  Unknown
+libifcore.so.5     00002AD161EC5E0C  Unknown               Unknown  Unknown
+libifcore.so.5     00002AD161ED74B8  Unknown               Unknown  Unknown
+libpthread.so.0    000000308120F4A0  Unknown               Unknown  Unknown
+LTRANS.exe         000000000044E834  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000404D10  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000414A83  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401DD0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401D8E  Unknown               Unknown  Unknown
+libc.so.6          000000308061ECDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401C99  Unknown               Unknown  Unknown

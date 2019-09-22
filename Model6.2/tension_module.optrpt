@@ -1,0 +1,50 @@
+
+Begin optimization report for: TENSION_MOD::TSPSI
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at tension_module.f90(942,5) inlined into tension_module.f90(300,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at tension_module.f90(426,7) inlined into tension_module.f90(306,14)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at tension_module.f90(426,7) inlined into tension_module.f90(306,14)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at tension_module.f90(426,7) inlined into tension_module.f90(306,14)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: TENSION_MOD::SIGS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at tension_module.f90(426,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at tension_module.f90(426,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at tension_module.f90(426,7)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
+
+Begin optimization report for: TENSION_MOD::YPC1
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at tension_module.f90(942,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================

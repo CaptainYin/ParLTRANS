@@ -1,0 +1,84 @@
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 120.000
+  Particles:             = 4873
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/Initial_16-Sep_4873_locations.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = No
+  
+  Grid File:             = 
+ /vol/home/student/wpq/roms/scs10/Data/scs10_grd.nc                             
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/scs10_loop_0001.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations        4873
+   Particle n=5 Latitude=   14.1670000000000      Longitude=
+   112.100000000000     
+   Particle n=5 Depth=  -1009.70000000000     
+   Particle n=5 X=   12478646.8754954      Y=   1593348.78836654     
+ read-in grid information
+ create elements
+ find adjacent elements
+  - rho
+  - u
+  - v
+ prepare boundary arrays
+ initialize behavior
+ finding each particle's initial element
+ /vol/home/student/YinHQ/roms/ideal/scs10_loop_0001.nc
+Time to initialize model =  2.664 seconds.
+
+****** BEGIN ITERATIONS *******
+ write output to file, day =   4.166666666666666E-002
+ existing matrix,stepf=           4
+ /vol/home/student/YinHQ/roms/ideal/scs10_loop_0001.nc
+ existing matrix,stepf=           1
+ write output to file, day =   8.333333333333333E-002
+ existing matrix,stepf=           2
+ existing matrix,stepf=           3
+yhrun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+yhrun: got SIGCONT
+slurmd[cn7]: *** STEP 759403.0 CANCELLED AT 2018-12-10T14:33:49 ***
+yhrun: forcing job termination
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libintlc.so.5      00002B9552AAD961  Unknown               Unknown  Unknown
+libintlc.so.5      00002B9552AAC0B7  Unknown               Unknown  Unknown
+libifcore.so.5     00002B95512191D2  Unknown               Unknown  Unknown
+libifcore.so.5     00002B9551219026  Unknown               Unknown  Unknown
+libifcore.so.5     00002B9551185E0C  Unknown               Unknown  Unknown
+libifcore.so.5     00002B9551196BC3  Unknown               Unknown  Unknown
+libpthread.so.0    00002B9552D0B4A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000454A51  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004123EA  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041489F  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000414A2A  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000414B32  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401DD0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401D8E  Unknown               Unknown  Unknown
+libc.so.6          00002B9552F37CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000401C99  Unknown               Unknown  Unknown
+yhrun: error: cn7: task 0: Exited with exit code 1

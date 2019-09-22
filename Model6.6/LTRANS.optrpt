@@ -1,0 +1,872 @@
+
+Begin optimization report for: MAIN:INI_LTRANS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(213,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(213,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(213,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(213,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(219,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(219,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(219,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(220,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(220,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(220,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(226,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(226,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(226,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(226,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(227,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(227,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(227,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(227,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(542,5)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:WRITEOUTPUT..2
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:WRITEOUTPUT
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:WRITEOUTPUT..1
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:WRITEOUTPUT..0
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1741,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:PRINTOUTPUT
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1664,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(1664,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(1664,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(1664,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1665,7)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at LTRANS.f90(1665,7)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(1665,7)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at LTRANS.f90(1665,7)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1687,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:FIND_CURRENTS..2
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:FIND_CURRENTS..0
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:FIND_CURRENTS..1
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1604,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1606,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1608,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1535,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1540,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1558,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1563,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1582,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1587,9)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:UPDATE_PARTICLES
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(1392,9)
+   remark #15301: BLOCK WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1392,9)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1407,5)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1407,5)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1407,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(1407,5)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: MAIN:RUN_EXTERNAL_TIMESTEP
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at LTRANS.f90(568,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at LTRANS.f90(568,7)
+<Remainder>
+LOOP END
+===========================================================================

@@ -1,0 +1,288 @@
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 4.500
+  Particles:             = 608
+  Particle File:         = ./input/Initial_particle_locations.csv
+  
+  Behavior:              = C.virginica oyster larvae
+  Particle Mortality:    = On
+  Settlement:            = On
+  Habitat File:          = ./input/End_polygons.csv
+  Hole File:             = ./input/End_holes.csv
+  
+  Horizontal Turbulence: = On
+  Vertical Turbulence:   = On
+  Projection:            = Spherical
+  Ocean Boundary:        = Open
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ ./input/baymouth_grid_macroms.nc                                               
+                                                                                
+                                           
+  First Hydro File:      = ./input/clipped_macroms_his_0003.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations         608
+   Particle n=5 Latitude=   37.2761608977490      Longitude=
+  -76.2108564098010     
+   Particle n=5 Depth= -0.250000000000000     
+   Particle n=5 X=   158478.510347711      Y=   253375.629570209     
+   Particle n=5 Start Polygon=      101001
+ read-in grid information
+ create elements
+ find adjacent elements
+  - rho
+  - u
+  - v
+ prepare boundary arrays
+ output lat/long blanking file
+ output metric blanking file
+ initialize behavior
+ read in habitat polygon locations
+   Edge i=5 Polygon ID=   101001.000000000     
+   Edge i=5 Center Lat=   37.1290000000000      Long=  -76.2400000000000     
+   Edge i=5   Edge Lat=   37.0610000000000      Long=  -76.2530000000000     
+   Hole i=5 Center Lat=   37.1270000000000      Long=  -76.0270000000000     
+   Hole i=5   Edge Lat=   37.1570000000000      Long=  -76.0440000000000     
+ find polygons in elements
+ back from call getR_ele
+ stored info in polyspecs
+ checking if holes exist
+ about to return from createPolySpecs
+ finding each particle's initial element
+ ./input/clipped_macroms_his_0003.nc
+Time to initialize model =  0.294 seconds.
+
+****** BEGIN ITERATIONS *******
+ write output to file, day =   4.166666666666666E-002
+ write output to file, day =   8.333333333333333E-002
+ existing matrix,stepf=           4
+ write output to file, day =   0.125000000000000     
+ existing matrix,stepf=           5
+ write output to file, day =   0.166666666666667     
+ existing matrix,stepf=           6
+ write output to file, day =   0.208333333333333     
+ existing matrix,stepf=           7
+ write output to file, day =   0.250000000000000     
+ existing matrix,stepf=           8
+ write output to file, day =   0.291666666666667     
+ existing matrix,stepf=           9
+ write output to file, day =   0.333333333333333     
+ existing matrix,stepf=          10
+ write output to file, day =   0.375000000000000     
+ existing matrix,stepf=          11
+ write output to file, day =   0.416666666666667     
+ existing matrix,stepf=          12
+ write output to file, day =   0.458333333333333     
+ existing matrix,stepf=          13
+ write output to file, day =   0.500000000000000     
+ existing matrix,stepf=          14
+ write output to file, day =   0.541666666666667     
+ existing matrix,stepf=          15
+ write output to file, day =   0.583333333333333     
+ existing matrix,stepf=          16
+ write output to file, day =   0.625000000000000     
+ existing matrix,stepf=          17
+ write output to file, day =   0.666666666666667     
+ existing matrix,stepf=          18
+ write output to file, day =   0.708333333333333     
+ existing matrix,stepf=          19
+ write output to file, day =   0.750000000000000     
+ existing matrix,stepf=          20
+ write output to file, day =   0.791666666666667     
+ existing matrix,stepf=          21
+ write output to file, day =   0.833333333333333     
+ existing matrix,stepf=          22
+ write output to file, day =   0.875000000000000     
+ existing matrix,stepf=          23
+ write output to file, day =   0.916666666666667     
+ existing matrix,stepf=          24
+ write output to file, day =   0.958333333333333     
+ existing matrix,stepf=          25
+ write output to file, day =    1.00000000000000     
+ existing matrix,stepf=          26
+ write output to file, day =    1.04166666666667     
+ existing matrix,stepf=          27
+ write output to file, day =    1.08333333333333     
+ existing matrix,stepf=          28
+ write output to file, day =    1.12500000000000     
+ existing matrix,stepf=          29
+ write output to file, day =    1.16666666666667     
+ existing matrix,stepf=          30
+ write output to file, day =    1.20833333333333     
+ existing matrix,stepf=          31
+ write output to file, day =    1.25000000000000     
+ existing matrix,stepf=          32
+ write output to file, day =    1.29166666666667     
+ existing matrix,stepf=          33
+ write output to file, day =    1.33333333333333     
+ existing matrix,stepf=          34
+ write output to file, day =    1.37500000000000     
+ existing matrix,stepf=          35
+ write output to file, day =    1.41666666666667     
+ existing matrix,stepf=          36
+ write output to file, day =    1.45833333333333     
+ existing matrix,stepf=          37
+ write output to file, day =    1.50000000000000     
+ existing matrix,stepf=          38
+ write output to file, day =    1.54166666666667     
+ existing matrix,stepf=          39
+ write output to file, day =    1.58333333333333     
+ existing matrix,stepf=          40
+ write output to file, day =    1.62500000000000     
+ existing matrix,stepf=          41
+ write output to file, day =    1.66666666666667     
+ existing matrix,stepf=          42
+ write output to file, day =    1.70833333333333     
+ existing matrix,stepf=          43
+ write output to file, day =    1.75000000000000     
+ existing matrix,stepf=          44
+ write output to file, day =    1.79166666666667     
+ existing matrix,stepf=          45
+ write output to file, day =    1.83333333333333     
+ existing matrix,stepf=          46
+ write output to file, day =    1.87500000000000     
+ existing matrix,stepf=          47
+ write output to file, day =    1.91666666666667     
+ existing matrix,stepf=          48
+ write output to file, day =    1.95833333333333     
+ existing matrix,stepf=          49
+ write output to file, day =    2.00000000000000     
+ existing matrix,stepf=          50
+ write output to file, day =    2.04166666666667     
+ existing matrix,stepf=          51
+ write output to file, day =    2.08333333333333     
+ existing matrix,stepf=          52
+ write output to file, day =    2.12500000000000     
+ existing matrix,stepf=          53
+ write output to file, day =    2.16666666666667     
+ existing matrix,stepf=          54
+ write output to file, day =    2.20833333333333     
+ existing matrix,stepf=          55
+ write output to file, day =    2.25000000000000     
+ existing matrix,stepf=          56
+ write output to file, day =    2.29166666666667     
+ existing matrix,stepf=          57
+ write output to file, day =    2.33333333333333     
+ existing matrix,stepf=          58
+ write output to file, day =    2.37500000000000     
+ existing matrix,stepf=          59
+ write output to file, day =    2.41666666666667     
+ existing matrix,stepf=          60
+ write output to file, day =    2.45833333333333     
+ existing matrix,stepf=          61
+ write output to file, day =    2.50000000000000     
+ existing matrix,stepf=          62
+ write output to file, day =    2.54166666666667     
+ existing matrix,stepf=          63
+ write output to file, day =    2.58333333333333     
+ existing matrix,stepf=          64
+ write output to file, day =    2.62500000000000     
+ existing matrix,stepf=          65
+ write output to file, day =    2.66666666666667     
+ existing matrix,stepf=          66
+ write output to file, day =    2.70833333333333     
+ existing matrix,stepf=          67
+ write output to file, day =    2.75000000000000     
+ existing matrix,stepf=          68
+ write output to file, day =    2.79166666666667     
+ existing matrix,stepf=          69
+ write output to file, day =    2.83333333333333     
+ existing matrix,stepf=          70
+ write output to file, day =    2.87500000000000     
+ existing matrix,stepf=          71
+ write output to file, day =    2.91666666666667     
+ existing matrix,stepf=          72
+ write output to file, day =    2.95833333333333     
+ ./input/clipped_macroms_his_0004.nc
+ existing matrix,stepf=           1
+ write output to file, day =    3.00000000000000     
+ existing matrix,stepf=           2
+ write output to file, day =    3.04166666666667     
+ existing matrix,stepf=           3
+ write output to file, day =    3.08333333333333     
+ existing matrix,stepf=           4
+ write output to file, day =    3.12500000000000     
+ existing matrix,stepf=           5
+ write output to file, day =    3.16666666666667     
+ existing matrix,stepf=           6
+ write output to file, day =    3.20833333333333     
+ existing matrix,stepf=           7
+ write output to file, day =    3.25000000000000     
+ existing matrix,stepf=           8
+ write output to file, day =    3.29166666666667     
+ existing matrix,stepf=           9
+ write output to file, day =    3.33333333333333     
+ existing matrix,stepf=          10
+ write output to file, day =    3.37500000000000     
+ existing matrix,stepf=          11
+ write output to file, day =    3.41666666666667     
+ existing matrix,stepf=          12
+ write output to file, day =    3.45833333333333     
+ existing matrix,stepf=          13
+ write output to file, day =    3.50000000000000     
+ existing matrix,stepf=          14
+ write output to file, day =    3.54166666666667     
+ existing matrix,stepf=          15
+ write output to file, day =    3.58333333333333     
+ existing matrix,stepf=          16
+ write output to file, day =    3.62500000000000     
+ existing matrix,stepf=          17
+ write output to file, day =    3.66666666666667     
+ existing matrix,stepf=          18
+ write output to file, day =    3.70833333333333     
+ existing matrix,stepf=          19
+ write output to file, day =    3.75000000000000     
+ existing matrix,stepf=          20
+ write output to file, day =    3.79166666666667     
+ existing matrix,stepf=          21
+ write output to file, day =    3.83333333333333     
+ existing matrix,stepf=          22
+ write output to file, day =    3.87500000000000     
+ existing matrix,stepf=          23
+ write output to file, day =    3.91666666666667     
+ existing matrix,stepf=          24
+ write output to file, day =    3.95833333333333     
+ existing matrix,stepf=          25
+ write output to file, day =    4.00000000000000     
+ existing matrix,stepf=          26
+ write output to file, day =    4.04166666666667     
+ existing matrix,stepf=          27
+ write output to file, day =    4.08333333333333     
+ existing matrix,stepf=          28
+ write output to file, day =    4.12500000000000     
+ existing matrix,stepf=          29
+ write output to file, day =    4.16666666666667     
+ existing matrix,stepf=          30
+ write output to file, day =    4.20833333333333     
+ existing matrix,stepf=          31
+ write output to file, day =    4.25000000000000     
+ existing matrix,stepf=          32
+ write output to file, day =    4.29166666666667     
+ existing matrix,stepf=          33
+ write output to file, day =    4.33333333333333     
+ existing matrix,stepf=          34
+ write output to file, day =    4.37500000000000     
+ existing matrix,stepf=          35
+ write output to file, day =    4.41666666666667     
+ existing matrix,stepf=          36
+ write output to file, day =    4.45833333333333     
+ existing matrix,stepf=          37
+ write output to file, day =    4.50000000000000     
+ write endfile.csv
+Time to run model =  3 minutes and 24.855 seconds.
+
+****** END LTRANS *******

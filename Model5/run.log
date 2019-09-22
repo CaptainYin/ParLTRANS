@@ -1,0 +1,3444 @@
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  ******************** Model Info ******************** 
+  Days:                  = 3.000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+  
+  Run Name:              = LTRANS v.2 test case
+  ******************** Model Info ******************** 
+  
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 3.000
+  Particles:             = 10000
+  Days:                  = 3.000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  Particles:             = 10000
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+ read in particle locations       10000
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  ******************** Model Info ******************** 
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  ******************** Model Info ******************** 
+  
+  Days:                  = 3.000
+  ******************** Model Info ******************** 
+  ******************** Model Info ******************** 
+  ******************** Model Info ******************** 
+  Particles:             = 10000
+  
+  
+  
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+ read in particle locations       10000
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 3.000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  Days:                  = 3.000
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Particles:             = 10000
+  Days:                  = 3.000
+  Days:                  = 3.000
+  Days:                  = 3.000
+ read in particle locations       10000
+  Particles:             = 10000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+ read in particle locations       10000
+ read in particle locations       10000
+  Days:                  = 3.000
+ read in particle locations       10000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 3.000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+  ******************** Model Info ******************** 
+  
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 3.000
+  Days:                  = 3.000
+  ******************** Model Info ******************** 
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  ******************** Model Info ******************** 
+  
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+ read in particle locations       10000
+  Days:                  = 3.000
+  Particles:             = 10000
+  Days:                  = 3.000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+ read in particle locations       10000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+  ******************** Model Info ******************** 
+  
+  Run Name:              = LTRANS v.2 test case
+  Executable Directory:  = .
+  Output Directory:      = ./output
+  Run By:                = Ian Mitchell
+  Institution:           = UMCES-HPL
+  Started On:            = 15 Feb 2013
+  
+  Days:                  = 3.000
+  Particles:             = 10000
+  Particle File:         = 
+ /vol/home/student/YinHQ/roms/ideal/IPL_unidep-150_n10000.csv
+  
+  Behavior:              = Passive
+  Particle Mortality:    = Off
+  Settlement:            = Off
+  
+  Horizontal Turbulence: = Off
+  Vertical Turbulence:   = Off
+  Projection:            = Mercator
+  Ocean Boundary:        = Closed
+  Salt & Temp Output:    = Off
+  Track Collisions:      = No
+  Track Model Timing:    = Yes
+  
+  Grid File:             = 
+ /vol/home/student/YinHQ/roms/ideal/ideal_grd.nc                                
+                                                                                
+                                           
+  First Hydro File:      = /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+  
+  Seed:                  = 9
+  
+  
+  *************** LTRANS INITIALIZATION ************** 
+ read in particle locations       10000
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+ read-in grid information
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+ read-in grid information
+ read-in grid information
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+ read-in grid information
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+ read-in grid information
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   10.3440000000000     
+ read-in grid information
+ read-in grid information
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+ read-in grid information
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+ read-in grid information
+   10.3440000000000     
+ read-in grid information
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+ read-in grid information
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+ read-in grid information
+ read-in grid information
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+ read-in grid information
+ read-in grid information
+   Particle n=5 Latitude=  0.160210000000000      Longitude=
+   10.3440000000000     
+   Particle n=5 Depth=  -150.000000000000     
+   Particle n=5 X=   34399.9999999999      Y=   16021.0000000000     
+ read-in grid information
+ create elements
+ create elements
+ create elements
+ create elements
+ create elements
+ create elements
+ create elements
+ create elements
+ create elements
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+ find adjacent elements
+ find adjacent elements
+  - rho
+  - rho
+ create elements
+ find adjacent elements
+ find adjacent elements
+  - rho
+  - rho
+ find adjacent elements
+ find adjacent elements
+  - rho
+  - rho
+ create elements
+ create elements
+ create elements
+ create elements
+ find adjacent elements
+  - rho
+ create elements
+ find adjacent elements
+  - rho
+ create elements
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+ find adjacent elements
+  - rho
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - u
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+  - v
+ prepare boundary arrays
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ output lat/long blanking file
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ output lat/long blanking file
+ output lat/long blanking file
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ output lat/long blanking file
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ prepare boundary arrays
+ output lat/long blanking file
+ output lat/long blanking file
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ prepare boundary arrays
+ prepare boundary arrays
+ output lat/long blanking file
+ output lat/long blanking file
+ output lat/long blanking file
+ prepare boundary arrays
+ output lat/long blanking file
+ prepare boundary arrays
+ output lat/long blanking file
+ output metric blanking file
+ initialize behavior
+ finding each particle's initial element
+ output metric blanking file
+ output metric blanking file
+ initialize behavior
+ finding each particle's initial element
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ initialize behavior
+ finding each particle's initial element
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ initialize behavior
+ finding each particle's initial element
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ output metric blanking file
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ initialize behavior
+ finding each particle's initial element
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+Time to initialize model =  2.685 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.787 seconds.
+
+****** BEGIN ITERATIONS *******
+ new Zpos  -150.001807692770     
+Time to initialize model =  2.776 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.751 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.760 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.754 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.766 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  2.735 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.533 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.541 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.514 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.518 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.479 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.475 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.475 seconds.
+
+****** BEGIN ITERATIONS *******
+Time to initialize model =  3.489 seconds.
+
+****** BEGIN ITERATIONS *******
+ new Zpos  -150.003615374348     
+ new Zpos  -150.005423044735     
+ new Zpos  -150.007230703930     
+ new Zpos  -150.009038351933     
+ new Zpos  -150.010845988743     
+ new Zpos  -150.012653614362     
+ new Zpos  -150.014461228787     
+ new Zpos  -150.016268832020     
+ new Zpos  -150.018076424060     
+ new Zpos  -150.019884004907     
+ new Zpos  -150.021691574561     
+ new Zpos  -150.023499133021     
+ new Zpos  -150.025306680287     
+ new Zpos  -150.027114216359     
+ new Zpos  -150.028921741238     
+ new Zpos  -150.030729254922     
+ new Zpos  -150.032536757411     
+ new Zpos  -150.034344248706     
+ new Zpos  -150.036151728806     
+ new Zpos  -150.037959197711     
+ new Zpos  -150.039766655420     
+ new Zpos  -150.041574101935     
+ new Zpos  -150.043381537253     
+ new Zpos  -150.045188961376     
+ new Zpos  -150.046996374303     
+ new Zpos  -150.048803776033     
+ new Zpos  -150.050611166567     
+ new Zpos  -150.052418545905     
+ new Zpos  -150.054225914046     
+ new Zpos  -150.054350544440     
+ new Zpos  -150.054475162742     
+ new Zpos  -150.054599768951     
+ new Zpos  -150.054724363069     
+ new Zpos  -150.054848945095     
+ new Zpos  -150.054973515029     
+ new Zpos  -150.055098072871     
+ new Zpos  -150.055222618621     
+ new Zpos  -150.055347152279     
+ new Zpos  -150.055471673845     
+ new Zpos  -150.055596183319     
+ new Zpos  -150.055720680702     
+ existing matrix,stepf=           4
+ new Zpos  -150.055845165992     
+ new Zpos  -150.055969639190     
+ new Zpos  -150.056094100296     
+ new Zpos  -150.056218549311     
+ existing matrix,stepf=           4
+ new Zpos  -150.056342986233     
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ new Zpos  -150.056467411064     
+ new Zpos  -150.056591823802     
+ new Zpos  -150.056716224449     
+ new Zpos  -150.056840613004     
+ new Zpos  -150.056964989466     
+ new Zpos  -150.057089353837     
+ new Zpos  -150.057213706116     
+ new Zpos  -150.057338046303     
+ new Zpos  -150.057462374399     
+ new Zpos  -150.057586690402     
+ new Zpos  -150.057710994313     
+ new Zpos  -150.057835286133     
+ new Zpos  -150.057959565860     
+ write output to file, day =   4.166666666666666E-002
+ existing matrix,stepf=           4
+ new Zpos  -150.059766560046     
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ existing matrix,stepf=           4
+ new Zpos  -150.061573543032     
+ new Zpos  -150.063380514818     
+ new Zpos  -150.065187475404     
+ new Zpos  -150.066994424790     
+ new Zpos  -150.068801362975     
+ new Zpos  -150.070608289959     
+ new Zpos  -150.072415205743     
+ new Zpos  -150.074222110326     
+ new Zpos  -150.076029003707     
+ new Zpos  -150.077835885887     
+ new Zpos  -150.079642756865     
+ existing matrix,stepf=           5
+ new Zpos  -150.081449616642     
+ new Zpos  -150.083256465216     
+ new Zpos  -150.085063302589     
+ new Zpos  -150.086870128759     
+ new Zpos  -150.088676943726     
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ new Zpos  -150.090483747490     
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ new Zpos  -150.092290540052     
+ new Zpos  -150.094097321411     
+ new Zpos  -150.095904091566     
+ new Zpos  -150.097710850517     
+ new Zpos  -150.099517598265     
+ new Zpos  -150.101324334809     
+ new Zpos  -150.103131060149     
+ new Zpos  -150.104937774285     
+ new Zpos  -150.106744477216     
+ new Zpos  -150.108551168943     
+ new Zpos  -150.110357849464     
+ new Zpos  -150.112164518781     
+ existing matrix,stepf=           5
+ new Zpos  -150.113971176892     
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ existing matrix,stepf=           5
+ new Zpos  -150.115777823798     
+ new Zpos  -150.117584459498     
+ new Zpos  -150.119391083993     
+ new Zpos  -150.121197697281     
+ new Zpos  -150.123004299364     
+ new Zpos  -150.124810890239     
+ new Zpos  -150.126617469909     
+ existing matrix,stepf=           6
+ new Zpos  -150.128424038371     
+ new Zpos  -150.130230595627     
+ new Zpos  -150.132037141675     
+ new Zpos  -150.133843676517     
+ new Zpos  -150.135650200150     
+ new Zpos  -150.137456712576     
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ new Zpos  -150.139263213794     
+ new Zpos  -150.141069703804     
+ new Zpos  -150.142876182606     
+ new Zpos  -150.144682650199     
+ new Zpos  -150.146489106583     
+ new Zpos  -150.148295551759     
+ new Zpos  -150.150101985725     
+ new Zpos  -150.151908408483     
+ new Zpos  -150.153714820031     
+ new Zpos  -150.155521220369     
+ new Zpos  -150.157327609497     
+ new Zpos  -150.159133987416     
+ new Zpos  -150.160940354124     
+ new Zpos  -150.162746709622     
+ new Zpos  -150.164553053910     
+ new Zpos  -150.166359386986     
+ write output to file, day =   8.333333333333333E-002
+ existing matrix,stepf=           6
+ new Zpos  -150.168165708852     
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ existing matrix,stepf=           6
+ new Zpos  -150.169972019506     
+ new Zpos  -150.171778318949     
+ new Zpos  -150.173584607181     
+ new Zpos  -150.175390884201     
+ existing matrix,stepf=           7
+ new Zpos  -150.177197150009     
+ new Zpos  -150.179003404605     
+ new Zpos  -150.180809647989     
+ new Zpos  -150.182615880160     
+ new Zpos  -150.184422101118     
+ new Zpos  -150.186228310864     
+ new Zpos  -150.188034509397     
+ new Zpos  -150.189840696716     
+ new Zpos  -150.191646872822     
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ new Zpos  -150.193453037715     
+ new Zpos  -150.195259191393     
+ new Zpos  -150.197065333858     
+ new Zpos  -150.198871465108     
+ new Zpos  -150.200677585144     
+ new Zpos  -150.202483693966     
+ new Zpos  -150.204289791573     
+ new Zpos  -150.206095877964     
+ new Zpos  -150.207901953141     
+ new Zpos  -150.209708017103     
+ new Zpos  -150.211514069848     
+ new Zpos  -150.213320111379     
+ new Zpos  -150.215126141693     
+ new Zpos  -150.216932160791     
+ new Zpos  -150.218738168673     
+ new Zpos  -150.220544165338     
+ existing matrix,stepf=           7
+ new Zpos  -150.222350150787     
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           7
+ existing matrix,stepf=           8
+ new Zpos  -150.224156125019     
+ new Zpos  -150.225962088034     
+ new Zpos  -150.227768039832     
+ new Zpos  -150.229573980412     
+ new Zpos  -150.231379909775     
+ new Zpos  -150.233185827920     
+ new Zpos  -150.234991734847     
+ new Zpos  -150.236797630555     
+ new Zpos  -150.238603515046     
+ new Zpos  -150.240409388318     
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ new Zpos  -150.242215250371     
+ new Zpos  -150.244021101205     
+ new Zpos  -150.245826940820     
+ new Zpos  -150.247632769216     
+ new Zpos  -150.249438586392     
+ new Zpos  -150.251244392349     
+ new Zpos  -150.253050187085     
+ new Zpos  -150.254855970602     
+ new Zpos  -150.256661742898     
+ new Zpos  -150.258467503974     
+ new Zpos  -150.260273253830     
+ new Zpos  -150.262078992464     
+ new Zpos  -150.263884719877     
+ new Zpos  -150.265690436070     
+ new Zpos  -150.267496141041     
+ new Zpos  -150.269301834790     
+ new Zpos  -150.271107517317     
+ new Zpos  -150.272913188623     
+ new Zpos  -150.274718848706     
+ write output to file, day =   0.125000000000000     
+ existing matrix,stepf=           9
+ existing matrix,stepf=           8
+ new Zpos  -150.276524497567     
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ existing matrix,stepf=           8
+ new Zpos  -150.278330135206     
+ new Zpos  -150.280135761621     
+ new Zpos  -150.281941376814     
+ new Zpos  -150.283746980784     
+ new Zpos  -150.285552573531     
+ new Zpos  -150.287358155054     
+ new Zpos  -150.289163725353     
+ new Zpos  -150.290969284428     
+ new Zpos  -150.292774832280     
+ new Zpos  -150.294580368907     
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ new Zpos  -150.296385894310     
+ new Zpos  -150.298191408488     
+ new Zpos  -150.299996911441     
+ new Zpos  -150.301802403169     
+ new Zpos  -150.303607883672     
+ new Zpos  -150.305413352950     
+ new Zpos  -150.307218811002     
+ new Zpos  -150.309024257829     
+ new Zpos  -150.310829693429     
+ new Zpos  -150.312635117804     
+ new Zpos  -150.314440530952     
+ new Zpos  -150.316245932873     
+ new Zpos  -150.318051323568     
+ new Zpos  -150.319856703036     
+ new Zpos  -150.321662071277     
+ new Zpos  -150.323467428290     
+ existing matrix,stepf=          10
+ new Zpos  -150.325272774076     
+ new Zpos  -150.327078108635     
+ new Zpos  -150.328883431965     
+ existing matrix,stepf=           9
+ new Zpos  -150.330688744068     
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ existing matrix,stepf=           9
+ new Zpos  -150.332494044942     
+ new Zpos  -150.334299334588     
+ new Zpos  -150.336104613006     
+ new Zpos  -150.337909880194     
+ new Zpos  -150.339715136154     
+ new Zpos  -150.341520380884     
+ new Zpos  -150.343325614385     
+ new Zpos  -150.345130836657     
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ new Zpos  -150.346936047698     
+ new Zpos  -150.348741247510     
+ new Zpos  -150.350546436092     
+ new Zpos  -150.352351613443     
+ new Zpos  -150.354156779564     
+ new Zpos  -150.355961934455     
+ new Zpos  -150.357767078114     
+ new Zpos  -150.359572210542     
+ new Zpos  -150.361377331739     
+ new Zpos  -150.363182441705     
+ new Zpos  -150.364987540439     
+ new Zpos  -150.366792627941     
+ existing matrix,stepf=          11
+ new Zpos  -150.368597704211     
+ new Zpos  -150.370402769249     
+ new Zpos  -150.372207823055     
+ new Zpos  -150.374012865628     
+ new Zpos  -150.375817896968     
+ new Zpos  -150.377622917076     
+ new Zpos  -150.379427925950     
+ new Zpos  -150.381232923591     
+ new Zpos  -150.383037909998     
+ write output to file, day =   0.166666666666667     
+ existing matrix,stepf=          10
+ new Zpos  -150.384842885172     
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ existing matrix,stepf=          10
+ new Zpos  -150.386647849111     
+ new Zpos  -150.388452801817     
+ new Zpos  -150.390257743288     
+ new Zpos  -150.392062673525     
+ new Zpos  -150.393867592528     
+ new Zpos  -150.395672500295     
+ new Zpos  -150.397477396827     
+ new Zpos  -150.399282282124     
+ new Zpos  -150.401087156186     
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ new Zpos  -150.402892019012     
+ new Zpos  -150.404696870603     
+ new Zpos  -150.406501710957     
+ new Zpos  -150.408306540075     
+ new Zpos  -150.410111357957     
+ new Zpos  -150.411916164602     
+ new Zpos  -150.413720960011     
+ new Zpos  -150.415525744183     
+ existing matrix,stepf=          12
+ new Zpos  -150.417330517117     
+ new Zpos  -150.419135278814     
+ new Zpos  -150.420940029274     
+ new Zpos  -150.422744768496     
+ new Zpos  -150.424549496480     
+ new Zpos  -150.426354213226     
+ new Zpos  -150.428158918734     
+ new Zpos  -150.429963613004     
+ new Zpos  -150.431768296035     
+ new Zpos  -150.433572967827     
+ new Zpos  -150.435377628380     
+ new Zpos  -150.437182277693     
+ existing matrix,stepf=          11
+ new Zpos  -150.438986915768     
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ existing matrix,stepf=          11
+ new Zpos  -150.440791542603     
+ new Zpos  -150.442596158198     
+ new Zpos  -150.444400762553     
+ new Zpos  -150.446205355668     
+ new Zpos  -150.448009937543     
+ new Zpos  -150.449814508177     
+ new Zpos  -150.451619067571     
+ new Zpos  -150.453423615723     
+ existing matrix,stepf=          12
+ new Zpos  -150.455228152635     
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ new Zpos  -150.457032678305     
+ new Zpos  -150.458837192734     
+ existing matrix,stepf=          13
+ new Zpos  -150.460641695921     
+ new Zpos  -150.462446187866     
+ new Zpos  -150.464250668570     
+ new Zpos  -150.466055138031     
+ new Zpos  -150.467859596249     
+ new Zpos  -150.469664043225     
+ new Zpos  -150.471468478959     
+ new Zpos  -150.473272903449     
+ new Zpos  -150.475077316696     
+ new Zpos  -150.476881718700     
+ new Zpos  -150.478686109460     
+ new Zpos  -150.480490488977     
+ new Zpos  -150.482294857250     
+ new Zpos  -150.484099214278     
+ new Zpos  -150.485903560062     
+ new Zpos  -150.487707894602     
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ new Zpos  -150.489512217897     
+ new Zpos  -150.491316529948     
+ write output to file, day =   0.208333333333333     
+ existing matrix,stepf=          12
+ new Zpos  -150.493120830753     
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ existing matrix,stepf=          12
+ new Zpos  -150.494925120313     
+ new Zpos  -150.496729398628     
+ new Zpos  -150.498533665697     
+ new Zpos  -150.500337921520     
+ new Zpos  -150.502142166097     
+ new Zpos  -150.503946399428     
+ new Zpos  -150.505750621513     
+ new Zpos  -150.507554832351     
+ new Zpos  -150.509359031942     
+ new Zpos  -150.511163220287     
+ new Zpos  -150.512967397384     
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ new Zpos  -150.514771563234     
+ existing matrix,stepf=          14
+ new Zpos  -150.516575717837     
+ new Zpos  -150.518379861191     
+ new Zpos  -150.520183993298     
+ new Zpos  -150.521988114157     
+ new Zpos  -150.523792223768     
+ new Zpos  -150.525596322130     
+ new Zpos  -150.527400409244     
+ new Zpos  -150.529204485108     
+ new Zpos  -150.531008549724     
+ new Zpos  -150.532812603091     
+ new Zpos  -150.534616645208     
+ new Zpos  -150.536420676076     
+ new Zpos  -150.538224695694     
+ new Zpos  -150.540028704061     
+ new Zpos  -150.541832701179     
+ new Zpos  -150.543636687047     
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ new Zpos  -150.545440661664     
+ existing matrix,stepf=          13
+ new Zpos  -150.547244625030     
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ existing matrix,stepf=          13
+ new Zpos  -150.549048577145     
+ new Zpos  -150.550852518010     
+ new Zpos  -150.552656447623     
+ new Zpos  -150.554460365984     
+ new Zpos  -150.556264273094     
+ new Zpos  -150.558068168952     
+ new Zpos  -150.559872053558     
+ new Zpos  -150.561675926912     
+ new Zpos  -150.563479789014     
+ new Zpos  -150.565283639863     
+ new Zpos  -150.567087479459     
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          15
+ new Zpos  -150.568891307802     
+ new Zpos  -150.570695124892     
+ new Zpos  -150.572498930729     
+ new Zpos  -150.574302725312     
+ new Zpos  -150.576106508641     
+ new Zpos  -150.577910280717     
+ new Zpos  -150.579714041538     
+ new Zpos  -150.581517791106     
+ new Zpos  -150.583321529418     
+ new Zpos  -150.585125256476     
+ new Zpos  -150.586928972280     
+ new Zpos  -150.588732676828     
+ new Zpos  -150.590536370121     
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ new Zpos  -150.592340052158     
+ new Zpos  -150.594143722940     
+ new Zpos  -150.595947382467     
+ new Zpos  -150.597751030737     
+ new Zpos  -150.599554667751     
+ write output to file, day =   0.250000000000000     
+ existing matrix,stepf=          14
+ new Zpos  -150.601358293509     
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ existing matrix,stepf=          14
+ new Zpos  -150.603161908010     
+ new Zpos  -150.604965511254     
+ new Zpos  -150.606769103242     
+ new Zpos  -150.608572683972     
+ new Zpos  -150.610376253445     
+ new Zpos  -150.612179811661     
+ new Zpos  -150.613983358619     
+ new Zpos  -150.615786894319     
+ new Zpos  -150.617590418761     
+ new Zpos  -150.619393931945     
+ new Zpos  -150.621197433871     
+ new Zpos  -150.623000924538     
+ new Zpos  -150.624804403946     
+ new Zpos  -150.626607872095     
+ existing matrix,stepf=          16
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ new Zpos  -150.628411328985     
+ new Zpos  -150.630214774615     
+ new Zpos  -150.632018208986     
+ new Zpos  -150.633821632097     
+ new Zpos  -150.635625043949     
+ new Zpos  -150.637428444540     
+ new Zpos  -150.639231833871     
+ new Zpos  -150.641035211942     
+ new Zpos  -150.642838578751     
+ new Zpos  -150.644641934300     
+ new Zpos  -150.646445278588     
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ new Zpos  -150.648248611615     
+ new Zpos  -150.650051933380     
+ new Zpos  -150.651855243884     
+ new Zpos  -150.653658543126     
+ existing matrix,stepf=          15
+ new Zpos  -150.655461831105     
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ existing matrix,stepf=          15
+ new Zpos  -150.657265107823     
+ new Zpos  -150.659068373278     
+ new Zpos  -150.660871627471     
+ new Zpos  -150.662674870401     
+ new Zpos  -150.664478102068     
+ new Zpos  -150.666281322472     
+ new Zpos  -150.668084531613     
+ new Zpos  -150.669887729490     
+ new Zpos  -150.671690916103     
+ new Zpos  -150.673494091453     
+ new Zpos  -150.675297255539     
+ new Zpos  -150.677100408360     
+ new Zpos  -150.678903549917     
+ new Zpos  -150.680706680209     
+ existing matrix,stepf=          17
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ new Zpos  -150.682509799237     
+ new Zpos  -150.684312906999     
+ new Zpos  -150.686116003496     
+ new Zpos  -150.687919088728     
+ new Zpos  -150.689722162695     
+ new Zpos  -150.691525225395     
+ new Zpos  -150.693328276830     
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ new Zpos  -150.695131316998     
+ new Zpos  -150.696934345901     
+ new Zpos  -150.698737363536     
+ new Zpos  -150.700540369906     
+ new Zpos  -150.702343365008     
+ new Zpos  -150.704146348843     
+ new Zpos  -150.705949321411     
+ new Zpos  -150.707752282711     
+ write output to file, day =   0.291666666666667     
+ existing matrix,stepf=          16
+ new Zpos  -150.709555232744     
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ existing matrix,stepf=          16
+ new Zpos  -150.711358171509     
+ new Zpos  -150.713161099006     
+ new Zpos  -150.714964015235     
+ new Zpos  -150.716766920195     
+ new Zpos  -150.718569813887     
+ new Zpos  -150.720372696311     
+ new Zpos  -150.722175567465     
+ new Zpos  -150.723978427350     
+ new Zpos  -150.725781275966     
+ new Zpos  -150.727584113312     
+ new Zpos  -150.729386939389     
+ new Zpos  -150.731189754195     
+ new Zpos  -150.732992557732     
+ new Zpos  -150.734795349999     
+ new Zpos  -150.736598130995     
+ new Zpos  -150.738400900720     
+ new Zpos  -150.740203659174     
+ existing matrix,stepf=          18
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ new Zpos  -150.742006406358     
+ new Zpos  -150.743809142270     
+ new Zpos  -150.745611866911     
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ new Zpos  -150.747414580281     
+ new Zpos  -150.749217282379     
+ new Zpos  -150.751019973204     
+ new Zpos  -150.752822652758     
+ new Zpos  -150.754625321039     
+ new Zpos  -150.756427978048     
+ new Zpos  -150.758230623784     
+ new Zpos  -150.760033258248     
+ new Zpos  -150.761835881438     
+ existing matrix,stepf=          17
+ new Zpos  -150.763638493355     
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ existing matrix,stepf=          17
+ new Zpos  -150.765441093998     
+ new Zpos  -150.767243683368     
+ new Zpos  -150.769046261464     
+ new Zpos  -150.770848828287     
+ new Zpos  -150.772651383834     
+ new Zpos  -150.774453928108     
+ new Zpos  -150.776256461107     
+ new Zpos  -150.778058982831     
+ new Zpos  -150.779861493281     
+ new Zpos  -150.781663992455     
+ new Zpos  -150.783466480354     
+ new Zpos  -150.785268956977     
+ new Zpos  -150.787071422325     
+ new Zpos  -150.788873876397     
+ new Zpos  -150.790676319192     
+ existing matrix,stepf=          19
+ new Zpos  -150.792478750712     
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ new Zpos  -150.794281170955     
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ new Zpos  -150.796083579922     
+ new Zpos  -150.797885977611     
+ new Zpos  -150.799688364024     
+ new Zpos  -150.801490739159     
+ new Zpos  -150.803293103018     
+ new Zpos  -150.805095455598     
+ new Zpos  -150.806897796901     
+ new Zpos  -150.808700126926     
+ new Zpos  -150.810502445673     
+ new Zpos  -150.812304753141     
+ new Zpos  -150.814107049331     
+ new Zpos  -150.815909334243     
+ write output to file, day =   0.333333333333333     
+ existing matrix,stepf=          18
+ new Zpos  -150.817711607875     
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ existing matrix,stepf=          18
+ new Zpos  -150.819513870228     
+ new Zpos  -150.821316121303     
+ new Zpos  -150.823118361097     
+ new Zpos  -150.824920589612     
+ new Zpos  -150.826722806848     
+ new Zpos  -150.828525012803     
+ new Zpos  -150.830327207478     
+ new Zpos  -150.832129390873     
+ new Zpos  -150.833931562987     
+ new Zpos  -150.835733723821     
+ new Zpos  -150.837535873373     
+ new Zpos  -150.839338011645     
+ new Zpos  -150.841140138635     
+ new Zpos  -150.842942254344     
+ new Zpos  -150.844744358771     
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ new Zpos  -150.846546451916     
+ new Zpos  -150.848348533779     
+ new Zpos  -150.850150604360     
+ existing matrix,stepf=          20
+ new Zpos  -150.851952663658     
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ new Zpos  -150.853754711674     
+ new Zpos  -150.855556748407     
+ new Zpos  -150.857358773857     
+ new Zpos  -150.859160788024     
+ new Zpos  -150.860962790908     
+ new Zpos  -150.862764782508     
+ new Zpos  -150.864566762824     
+ new Zpos  -150.866368731857     
+ new Zpos  -150.868170689605     
+ new Zpos  -150.869972636069     
+ existing matrix,stepf=          19
+ new Zpos  -150.871774571248     
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ existing matrix,stepf=          19
+ new Zpos  -150.873576495143     
+ new Zpos  -150.875378407753     
+ new Zpos  -150.877180309078     
+ new Zpos  -150.878982199118     
+ new Zpos  -150.880784077872     
+ new Zpos  -150.882585945341     
+ new Zpos  -150.884387801524     
+ new Zpos  -150.886189646421     
+ new Zpos  -150.887991480032     
+ new Zpos  -150.889793302356     
+ new Zpos  -150.891595113394     
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ new Zpos  -150.893396913146     
+ new Zpos  -150.895198701610     
+ new Zpos  -150.897000478787     
+ new Zpos  -150.898802244677     
+ new Zpos  -150.900603999280     
+ new Zpos  -150.902405742594     
+ existing matrix,stepf=          21
+ new Zpos  -150.904207474621     
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ new Zpos  -150.906009195360     
+ existing matrix,stepf=          20
+ new Zpos  -150.907810904811     
+ new Zpos  -150.909612602974     
+ new Zpos  -150.911414289847     
+ new Zpos  -150.913215965432     
+ new Zpos  -150.915017629728     
+ new Zpos  -150.916819282735     
+ new Zpos  -150.918620924453     
+ new Zpos  -150.920422554881     
+ new Zpos  -150.922224174019     
+ new Zpos  -150.924025781868     
+ write output to file, day =   0.375000000000000     
+ existing matrix,stepf=          20
+ new Zpos  -150.925827378426     
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ existing matrix,stepf=          20
+ new Zpos  -150.927628963694     
+ new Zpos  -150.929430537672     
+ new Zpos  -150.931232100359     
+ new Zpos  -150.933033651755     
+ new Zpos  -150.934835191860     
+ new Zpos  -150.936636720674     
+ new Zpos  -150.938438238197     
+ new Zpos  -150.940239744428     
+ new Zpos  -150.942041239367     
+ new Zpos  -150.943842723015     
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ new Zpos  -150.945644195370     
+ new Zpos  -150.947445656433     
+ new Zpos  -150.949247106203     
+ new Zpos  -150.951048544681     
+ new Zpos  -150.952849971866     
+ new Zpos  -150.954651387757     
+ new Zpos  -150.956452792356     
+ new Zpos  -150.958254185661     
+ new Zpos  -150.960055567672     
+ existing matrix,stepf=          22
+ new Zpos  -150.961856938390     
+ new Zpos  -150.963658297814     
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ new Zpos  -150.965459645943     
+ new Zpos  -150.967260982778     
+ new Zpos  -150.969062308319     
+ new Zpos  -150.970863622564     
+ new Zpos  -150.972664925515     
+ new Zpos  -150.974466217171     
+ new Zpos  -150.976267497531     
+ new Zpos  -150.978068766596     
+ existing matrix,stepf=          21
+ new Zpos  -150.979870024366     
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ existing matrix,stepf=          21
+ new Zpos  -150.981671270839     
+ new Zpos  -150.983472506016     
+ new Zpos  -150.985273729898     
+ new Zpos  -150.987074942482     
+ new Zpos  -150.988876143770     
+ new Zpos  -150.990677333762     
+ new Zpos  -150.992478512456     
+ new Zpos  -150.994279679853     
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ new Zpos  -150.996080835953     
+ new Zpos  -150.997881980755     
+ new Zpos  -150.999683114260     
+ new Zpos  -151.001484236467     
+ new Zpos  -151.003285347375     
+ new Zpos  -151.005086446985     
+ new Zpos  -151.006887535297     
+ new Zpos  -151.008688612310     
+ new Zpos  -151.010489678025     
+ new Zpos  -151.012290732440     
+ existing matrix,stepf=          23
+ new Zpos  -151.014091775556     
+ new Zpos  -151.015892807373     
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ new Zpos  -151.017693827890     
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ new Zpos  -151.019494837107     
+ new Zpos  -151.021295835025     
+ new Zpos  -151.023096821642     
+ new Zpos  -151.024897796959     
+ new Zpos  -151.026698760975     
+ new Zpos  -151.028499713691     
+ new Zpos  -151.030300655105     
+ new Zpos  -151.032101585219     
+ write output to file, day =   0.416666666666667     
+ existing matrix,stepf=          22
+ new Zpos  -151.033902504032     
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ existing matrix,stepf=          22
+ new Zpos  -151.035703411543     
+ new Zpos  -151.037504307752     
+ new Zpos  -151.039305192659     
+ new Zpos  -151.041106066265     
+ new Zpos  -151.042906928568     
+ new Zpos  -151.044707779569     
+ new Zpos  -151.046508619268     
+ new Zpos  -151.048309447663     
+ existing matrix,stepf=          23
+ new Zpos  -151.050110264756     
+ existing matrix,stepf=          23
+ new Zpos  -151.051911070546     
+ new Zpos  -151.053711865032     
+ new Zpos  -151.055512648215     
+ new Zpos  -151.057313420094     
+ new Zpos  -151.059114180669     
+ new Zpos  -151.060914929940     
+ new Zpos  -151.062715667907     
+ new Zpos  -151.064516394570     
+ new Zpos  -151.066317109928     
+ new Zpos  -151.068117813981     
+ new Zpos  -151.069918506729     
+ existing matrix,stepf=          24
+ new Zpos  -151.071719188172     
+ new Zpos  -151.073519858309     
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ new Zpos  -151.075320517142     
+ existing matrix,stepf=          23
+ new Zpos  -151.077121164668     
+ new Zpos  -151.078921800888     
+ new Zpos  -151.080722425803     
+ new Zpos  -151.082523039411     
+ new Zpos  -151.084323641712     
+ new Zpos  -151.086124232707     
+ existing matrix,stepf=          23
+ new Zpos  -151.087924812395     
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ existing matrix,stepf=          23
+ new Zpos  -151.089725380776     
+ new Zpos  -151.091525937850     
+ new Zpos  -151.093326483617     
+ new Zpos  -151.095127018075     
+ new Zpos  -151.096927541227     
+ new Zpos  -151.098728053070     
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ new Zpos  -151.100528553605     
+ new Zpos  -151.102329042831     
+ new Zpos  -151.104129520749     
+ new Zpos  -151.105929987359     
+ new Zpos  -151.107730442659     
+ new Zpos  -151.109530886651     
+ new Zpos  -151.111331319333     
+ new Zpos  -151.113131740706     
+ new Zpos  -151.114932150769     
+ new Zpos  -151.116732549523     
+ new Zpos  -151.118532936966     
+ new Zpos  -151.120333313099     
+ new Zpos  -151.122133677922     
+ existing matrix,stepf=          25
+ new Zpos  -151.123934031434     
+ new Zpos  -151.125734373636     
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ new Zpos  -151.127534704526     
+ existing matrix,stepf=          24
+ new Zpos  -151.129335024106     
+ new Zpos  -151.131135332374     
+ new Zpos  -151.132935629330     
+ new Zpos  -151.134735914975     
+ new Zpos  -151.136536189309     
+ new Zpos  -151.138336452330     
+ new Zpos  -151.140136704038     
+ write output to file, day =   0.458333333333333     
+ existing matrix,stepf=          24
+ new Zpos  -151.141936944435     
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ existing matrix,stepf=          24
+ new Zpos  -151.143737173519     
+ new Zpos  -151.145537391290     
+ new Zpos  -151.147337597748     
+ new Zpos  -151.149137792893     
+ new Zpos  -151.150937976724     
+ new Zpos  -151.152738149243     
+ new Zpos  -151.154538310447     
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ new Zpos  -151.156338460337     
+ new Zpos  -151.158138598914     
+ new Zpos  -151.160040838572     
+ new Zpos  -151.161840964202     
+ new Zpos  -151.163641086824     
+ new Zpos  -151.165441206440     
+ new Zpos  -151.167241323047     
+ new Zpos  -151.169041436647     
+ new Zpos  -151.170841547239     
+ new Zpos  -151.172641654824     
+ new Zpos  -151.174441759400     
+ new Zpos  -151.176241860969     
+ new Zpos  -151.178041959530     
+ new Zpos  -151.179842055082     
+ existing matrix,stepf=          26
+ new Zpos  -151.181642147627     
+ new Zpos  -151.183442237163     
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ new Zpos  -151.185242323691     
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ new Zpos  -151.187042407211     
+ new Zpos  -151.188842487722     
+ new Zpos  -151.190642565224     
+ new Zpos  -151.192442639718     
+ new Zpos  -151.194242711204     
+ existing matrix,stepf=          25
+ new Zpos  -151.196042779680     
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ existing matrix,stepf=          25
+ new Zpos  -151.197842845148     
+ new Zpos  -151.199642907607     
+ new Zpos  -151.201442967057     
+ new Zpos  -151.203243023498     
+ new Zpos  -151.205043076929     
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ new Zpos  -151.206843127352     
+ new Zpos  -151.208643174765     
+ new Zpos  -151.210443219169     
+ new Zpos  -151.212243260563     
+ new Zpos  -151.214043298948     
+ new Zpos  -151.215843334324     
+ new Zpos  -151.217643366689     
+ new Zpos  -151.219443396045     
+ new Zpos  -151.221243422391     
+ new Zpos  -151.223043445728     
+ new Zpos  -151.224843466054     
+ new Zpos  -151.226643483370     
+ new Zpos  -151.228443497677     
+ new Zpos  -151.230243508973     
+ existing matrix,stepf=          27
+ new Zpos  -151.232043517258     
+ new Zpos  -151.233843522534     
+ new Zpos  -151.235643524799     
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ new Zpos  -151.237443524054     
+ new Zpos  -151.239243520298     
+ new Zpos  -151.241043513531     
+ new Zpos  -151.242843503754     
+ new Zpos  -151.244643490965     
+ new Zpos  -151.246443475166     
+ new Zpos  -151.248243456357     
+ write output to file, day =   0.500000000000000     
+ existing matrix,stepf=          26
+ new Zpos  -151.250043434536     
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ existing matrix,stepf=          26
+ new Zpos  -151.251843409704     
+ new Zpos  -151.253643381861     
+ new Zpos  -151.255443351006     
+ new Zpos  -151.257243317140     
+ new Zpos  -151.259043280263     
+ new Zpos  -151.260843240375     
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ new Zpos  -151.262643197475     
+ new Zpos  -151.264443151563     
+ new Zpos  -151.266243102640     
+ new Zpos  -151.268043050705     
+ new Zpos  -151.269842995758     
+ new Zpos  -151.271642937799     
+ new Zpos  -151.273442876828     
+ new Zpos  -151.275242812845     
+ new Zpos  -151.277042745850     
+ new Zpos  -151.278842675843     
+ new Zpos  -151.280642602823     
+ new Zpos  -151.282442526791     
+ new Zpos  -151.284242447747     
+ new Zpos  -151.286042365690     
+ existing matrix,stepf=          28
+ new Zpos  -151.287842280621     
+ new Zpos  -151.289642192539     
+ new Zpos  -151.291442101444     
+ new Zpos  -151.293242007336     
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ new Zpos  -151.295041910216     
+ existing matrix,stepf=          27
+ new Zpos  -151.296841810082     
+ new Zpos  -151.298641706936     
+ new Zpos  -151.300441600776     
+ new Zpos  -151.302241491604     
+ existing matrix,stepf=          27
+ new Zpos  -151.304041379418     
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ existing matrix,stepf=          27
+ new Zpos  -151.305841264218     
+ new Zpos  -151.307641146005     
+ new Zpos  -151.309441024779     
+ new Zpos  -151.311240900539     
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ new Zpos  -151.313040773286     
+ new Zpos  -151.314840643019     
+ new Zpos  -151.316640509738     
+ new Zpos  -151.318440373443     
+ new Zpos  -151.320240234134     
+ new Zpos  -151.322040091811     
+ new Zpos  -151.323839946474     
+ new Zpos  -151.325639798123     
+ new Zpos  -151.327439646758     
+ new Zpos  -151.329239492378     
+ new Zpos  -151.331039334984     
+ new Zpos  -151.332839174576     
+ existing matrix,stepf=          29
+ new Zpos  -151.334639011153     
+ new Zpos  -151.336438844715     
+ new Zpos  -151.338238675263     
+ new Zpos  -151.340038502796     
+ new Zpos  -151.341838327314     
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ new Zpos  -151.343638148817     
+ new Zpos  -151.345437967306     
+ new Zpos  -151.347237782779     
+ new Zpos  -151.349037595237     
+ new Zpos  -151.350837404680     
+ new Zpos  -151.352637211107     
+ new Zpos  -151.354437014519     
+ new Zpos  -151.356236814916     
+ write output to file, day =   0.541666666666667     
+ existing matrix,stepf=          28
+ new Zpos  -151.358036612297     
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ existing matrix,stepf=          28
+ new Zpos  -151.359836406663     
+ new Zpos  -151.361636198013     
+ new Zpos  -151.363435986347     
+ new Zpos  -151.365235771665     
+ new Zpos  -151.367035553968     
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ new Zpos  -151.368835333254     
+ new Zpos  -151.370635109525     
+ new Zpos  -151.372434882779     
+ new Zpos  -151.374234653018     
+ new Zpos  -151.376034420239     
+ new Zpos  -151.377834184445     
+ new Zpos  -151.379633945634     
+ new Zpos  -151.381433703807     
+ new Zpos  -151.383233458963     
+ new Zpos  -151.385033211103     
+ existing matrix,stepf=          30
+ new Zpos  -151.386832960225     
+ new Zpos  -151.388632706331     
+ new Zpos  -151.390432449420     
+ new Zpos  -151.392232189493     
+ new Zpos  -151.394031926548     
+ new Zpos  -151.395831660586     
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ new Zpos  -151.397631391607     
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ new Zpos  -151.399431119610     
+ new Zpos  -151.401230844597     
+ new Zpos  -151.403030566566     
+ new Zpos  -151.404830285517     
+ new Zpos  -151.406630001451     
+ new Zpos  -151.408429714368     
+ new Zpos  -151.410229424266     
+ existing matrix,stepf=          29
+ new Zpos  -151.412029131147     
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ existing matrix,stepf=          29
+ new Zpos  -151.413828835010     
+ new Zpos  -151.415628535855     
+ new Zpos  -151.417428233683     
+ existing matrix,stepf=          30
+ new Zpos  -151.419227928492     
+ existing matrix,stepf=          30
+ new Zpos  -151.421027620283     
+ new Zpos  -151.422827309055     
+ new Zpos  -151.424626994810     
+ new Zpos  -151.426426677546     
+ new Zpos  -151.428226357263     
+ existing matrix,stepf=          31
+ new Zpos  -151.430026033963     
+ new Zpos  -151.431825707643     
+ new Zpos  -151.433625378305     
+ new Zpos  -151.435425045948     
+ new Zpos  -151.437224710572     
+ new Zpos  -151.439024372178     
+ new Zpos  -151.440824030764     
+ new Zpos  -151.442623686332     
+ new Zpos  -151.444423338880     
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ new Zpos  -151.446222988409     
+ new Zpos  -151.448022634919     
+ new Zpos  -151.449822278409     
+ new Zpos  -151.451621918881     
+ new Zpos  -151.453421556332     
+ new Zpos  -151.455221190764     
+ new Zpos  -151.457020822177     
+ new Zpos  -151.458820450569     
+ new Zpos  -151.460620075942     
+ new Zpos  -151.462419698295     
+ new Zpos  -151.464219317628     
+ write output to file, day =   0.583333333333333     
+ existing matrix,stepf=          30
+ new Zpos  -151.466018933941     
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ existing matrix,stepf=          30
+ new Zpos  -151.467818547234     
+ new Zpos  -151.469618157507     
+ new Zpos  -151.471417764760     
+ new Zpos  -151.473217368992     
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ new Zpos  -151.475016970204     
+ new Zpos  -151.476816568395     
+ new Zpos  -151.478616163566     
+ existing matrix,stepf=          32
+ new Zpos  -151.480415755716     
+ new Zpos  -151.482215344846     
+ new Zpos  -151.484014930955     
+ new Zpos  -151.485814514043     
+ new Zpos  -151.487614094110     
+ new Zpos  -151.489413671156     
+ new Zpos  -151.491213245181     
+ new Zpos  -151.493012816185     
+ new Zpos  -151.494812384167     
+ new Zpos  -151.496611949129     
+ new Zpos  -151.498411511069     
+ new Zpos  -151.500211069987     
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ new Zpos  -151.502010625884     
+ new Zpos  -151.503810178760     
+ new Zpos  -151.505609728614     
+ new Zpos  -151.507409275446     
+ new Zpos  -151.509208819256     
+ new Zpos  -151.511008360044     
+ new Zpos  -151.512807897811     
+ new Zpos  -151.514607432555     
+ new Zpos  -151.516406964277     
+ new Zpos  -151.518206492977     
+ existing matrix,stepf=          31
+ new Zpos  -151.520006018655     
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ existing matrix,stepf=          31
+ new Zpos  -151.521805541311     
+ new Zpos  -151.523605060944     
+ new Zpos  -151.525404577554     
+ existing matrix,stepf=          33
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ new Zpos  -151.527204091142     
+ new Zpos  -151.529003601708     
+ new Zpos  -151.530803109250     
+ new Zpos  -151.532602613770     
+ new Zpos  -151.534402115267     
+ new Zpos  -151.536201613741     
+ new Zpos  -151.538001109192     
+ new Zpos  -151.539800601620     
+ new Zpos  -151.541600091025     
+ new Zpos  -151.543399577407     
+ new Zpos  -151.545199060765     
+ new Zpos  -151.546998541100     
+ new Zpos  -151.548798018411     
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ new Zpos  -151.550597492699     
+ new Zpos  -151.552396963963     
+ new Zpos  -151.554196432204     
+ new Zpos  -151.555995897421     
+ new Zpos  -151.557795359614     
+ new Zpos  -151.559594818783     
+ new Zpos  -151.561394274928     
+ new Zpos  -151.563193728049     
+ new Zpos  -151.564993178146     
+ new Zpos  -151.566792625219     
+ new Zpos  -151.568592069267     
+ new Zpos  -151.570391510291     
+ new Zpos  -151.572190948291     
+ write output to file, day =   0.625000000000000     
+ existing matrix,stepf=          32
+ new Zpos  -151.573990383266     
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ existing matrix,stepf=          32
+ new Zpos  -151.575789815216     
+ new Zpos  -151.577589244142     
+ existing matrix,stepf=          34
+ new Zpos  -151.579388670043     
+ new Zpos  -151.581188092920     
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ new Zpos  -151.582987512771     
+ new Zpos  -151.584786929597     
+ new Zpos  -151.586586343399     
+ new Zpos  -151.588385754175     
+ new Zpos  -151.590185161926     
+ new Zpos  -151.591984566652     
+ new Zpos  -151.593783968353     
+ new Zpos  -151.595583367028     
+ new Zpos  -151.597382762678     
+ new Zpos  -151.599182155302     
+ new Zpos  -151.600981544900     
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ new Zpos  -151.602780931473     
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ new Zpos  -151.604580315020     
+ new Zpos  -151.606379695541     
+ new Zpos  -151.608179073037     
+ new Zpos  -151.609978447506     
+ new Zpos  -151.611777818949     
+ new Zpos  -151.613577187366     
+ new Zpos  -151.615376552757     
+ new Zpos  -151.617175915121     
+ new Zpos  -151.618975274459     
+ new Zpos  -151.620774630771     
+ new Zpos  -151.622573984056     
+ new Zpos  -151.624373334314     
+ new Zpos  -151.626172681546     
+ existing matrix,stepf=          33
+ new Zpos  -151.627972025751     
+ existing matrix,stepf=          35
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ existing matrix,stepf=          33
+ new Zpos  -151.629771366929     
+ new Zpos  -151.631570705081     
+ existing matrix,stepf=          34
+ new Zpos  -151.633370040205     
+ existing matrix,stepf=          34
+ new Zpos  -151.635169372302     
+ new Zpos  -151.636968701372     
+ new Zpos  -151.638768027415     
+ new Zpos  -151.640567350431     
+ new Zpos  -151.642366670419     
+ new Zpos  -151.644165987380     
+ new Zpos  -151.645965301314     
+ new Zpos  -151.647764612220     
+ existing matrix,stepf=          34
+ new Zpos  -151.649563920098     
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ new Zpos  -151.651363224948     
+ new Zpos  -151.653162526771     
+ new Zpos  -151.654961825566     
+ new Zpos  -151.656761121332     
+ new Zpos  -151.658560414071     
+ new Zpos  -151.660359703782     
+ new Zpos  -151.662158990464     
+ new Zpos  -151.663958274119     
+ new Zpos  -151.665757554745     
+ new Zpos  -151.667556832342     
+ new Zpos  -151.669356106911     
+ new Zpos  -151.671155378452     
+ new Zpos  -151.672954646964     
+ new Zpos  -151.674753912447     
+ new Zpos  -151.676553174901     
+ new Zpos  -151.678352434327     
+ new Zpos  -151.680151690724     
+ write output to file, day =   0.666666666666667     
+ existing matrix,stepf=          36
+ existing matrix,stepf=          34
+ new Zpos  -151.681950944091     
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ existing matrix,stepf=          34
+ new Zpos  -151.683750194430     
+ new Zpos  -151.685549441739     
+ new Zpos  -151.687348686020     
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ new Zpos  -151.689147927271     
+ new Zpos  -151.690947165492     
+ new Zpos  -151.692746400684     
+ new Zpos  -151.694545632847     
+ new Zpos  -151.696344861980     
+ new Zpos  -151.698144088083     
+ new Zpos  -151.699943311157     
+ new Zpos  -151.701742531201     
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ new Zpos  -151.703541748215     
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ new Zpos  -151.705340962198     
+ new Zpos  -151.707140173152     
+ new Zpos  -151.708939381076     
+ new Zpos  -151.710738585970     
+ new Zpos  -151.712537787833     
+ new Zpos  -151.714336986666     
+ new Zpos  -151.716136182468     
+ new Zpos  -151.717935375241     
+ new Zpos  -151.719734564982     
+ new Zpos  -151.721533751693     
+ new Zpos  -151.723332935373     
+ new Zpos  -151.725132116022     
+ new Zpos  -151.726931293641     
+ existing matrix,stepf=          37
+ new Zpos  -151.728730468228     
+ new Zpos  -151.730529639785     
+ new Zpos  -151.732328808310     
+ new Zpos  -151.734127973805     
+ existing matrix,stepf=          35
+ new Zpos  -151.735927136268     
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ existing matrix,stepf=          35
+ new Zpos  -151.737726295699     
+ new Zpos  -151.739525452100     
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ new Zpos  -151.741324605469     
+ new Zpos  -151.743123755806     
+ new Zpos  -151.744922903112     
+ new Zpos  -151.746722047386     
+ new Zpos  -151.748521188628     
+ new Zpos  -151.750320326838     
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ new Zpos  -151.752119462017     
+ existing matrix,stepf=          36
+ new Zpos  -151.753918594164     
+ new Zpos  -151.755717723278     
+ new Zpos  -151.757516849360     
+ new Zpos  -151.759315972411     
+ new Zpos  -151.761115092428     
+ new Zpos  -151.762914209414     
+ new Zpos  -151.764713323367     
+ new Zpos  -151.766512434288     
+ new Zpos  -151.768311542176     
+ existing matrix,stepf=          38
+ new Zpos  -151.770110647031     
+ new Zpos  -151.771909748853     
+ new Zpos  -151.773708847643     
+ new Zpos  -151.775507943400     
+ new Zpos  -151.777307036124     
+ new Zpos  -151.779106125815     
+ new Zpos  -151.780905212473     
+ new Zpos  -151.782704296098     
+ new Zpos  -151.784503376689     
+ new Zpos  -151.786302454247     
+ new Zpos  -151.788101528772     
+ write output to file, day =   0.708333333333333     
+ existing matrix,stepf=          36
+ new Zpos  -151.789900600263     
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ existing matrix,stepf=          36
+ new Zpos  -151.791699668720     
+ new Zpos  -151.793498734144     
+ existing matrix,stepf=          37
+ new Zpos  -151.795297796535     
+ existing matrix,stepf=          37
+ new Zpos  -151.797096855891     
+ new Zpos  -151.798895912214     
+ new Zpos  -151.800694965503     
+ new Zpos  -151.802494015757     
+ new Zpos  -151.804293062978     
+ new Zpos  -151.806092107165     
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ new Zpos  -151.807891148317     
+ new Zpos  -151.809690186435     
+ new Zpos  -151.811489221519     
+ new Zpos  -151.813288253568     
+ new Zpos  -151.815087282582     
+ existing matrix,stepf=          39
+ new Zpos  -151.816886308562     
+ new Zpos  -151.818685331508     
+ new Zpos  -151.820484351418     
+ new Zpos  -151.822283368294     
+ new Zpos  -151.824082382135     
+ new Zpos  -151.825881392941     
+ new Zpos  -151.827680400712     
+ new Zpos  -151.829479405448     
+ new Zpos  -151.831278407148     
+ new Zpos  -151.833077405814     
+ new Zpos  -151.834876401444     
+ new Zpos  -151.836675394038     
+ new Zpos  -151.838474383597     
+ new Zpos  -151.840273370121     
+ new Zpos  -151.842072353609     
+ existing matrix,stepf=          37
+ new Zpos  -151.843871334061     
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ existing matrix,stepf=          37
+ new Zpos  -151.845670311477     
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ new Zpos  -151.847469285858     
+ new Zpos  -151.849268257202     
+ new Zpos  -151.851067225511     
+ new Zpos  -151.852866190783     
+ new Zpos  -151.854665153020     
+ new Zpos  -151.856464112220     
+ new Zpos  -151.858263068383     
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ new Zpos  -151.860062021511     
+ existing matrix,stepf=          40
+ new Zpos  -151.861860971602     
+ new Zpos  -151.863659918656     
+ new Zpos  -151.865458862674     
+ new Zpos  -151.867257803655     
+ new Zpos  -151.869056741599     
+ new Zpos  -151.870855676506     
+ new Zpos  -151.872654608377     
+ new Zpos  -151.874453537211     
+ new Zpos  -151.876252463007     
+ new Zpos  -151.878051385767     
+ new Zpos  -151.879850305489     
+ new Zpos  -151.881649222174     
+ new Zpos  -151.883448135821     
+ new Zpos  -151.885247046431     
+ new Zpos  -151.887045954004     
+ new Zpos  -151.888844858539     
+ new Zpos  -151.890643760036     
+ new Zpos  -151.892442658496     
+ new Zpos  -151.894241553918     
+ new Zpos  -151.896040446302     
+ write output to file, day =   0.750000000000000     
+ existing matrix,stepf=          38
+ new Zpos  -151.897839335648     
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          38
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ new Zpos  -151.899638221956     
+ new Zpos  -151.901437105225     
+ new Zpos  -151.903235985457     
+ new Zpos  -151.905034862651     
+ new Zpos  -151.906833736806     
+ new Zpos  -151.908632607922     
+ new Zpos  -151.910431476001     
+ existing matrix,stepf=          39
+ new Zpos  -151.912230341040     
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ existing matrix,stepf=          41
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ new Zpos  -151.914029203041     
+ new Zpos  -151.915828062004     
+ new Zpos  -151.917626917927     
+ new Zpos  -151.919425770812     
+ new Zpos  -151.921224620658     
+ new Zpos  -151.923023467465     
+ new Zpos  -151.924822311233     
+ new Zpos  -151.926621151961     
+ new Zpos  -151.928419989651     
+ new Zpos  -151.930218824301     
+ new Zpos  -151.932017655912     
+ new Zpos  -151.933816484483     
+ new Zpos  -151.935615310015     
+ new Zpos  -151.937414132507     
+ new Zpos  -151.939212951959     
+ new Zpos  -151.941011768372     
+ new Zpos  -151.942810581745     
+ new Zpos  -151.944609392078     
+ new Zpos  -151.946408199371     
+ new Zpos  -151.948207003624     
+ new Zpos  -151.950005804837     
+ existing matrix,stepf=          39
+ new Zpos  -151.951804603010     
+ existing matrix,stepf=          40
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ existing matrix,stepf=          40
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ existing matrix,stepf=          39
+ new Zpos  -151.953603398143     
+ new Zpos  -151.955402190235     
+ new Zpos  -151.957200979287     
+ existing matrix,stepf=          40
+ new Zpos  -151.958999765298     
+ existing matrix,stepf=          40
+ existing matrix,stepf=          42
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ new Zpos  -151.960798548269     
+ new Zpos  -151.962597328199     
+ new Zpos  -151.964396105088     
+ new Zpos  -151.966194878937     
+ new Zpos  -151.967993649744     
+ new Zpos  -151.969792417511     
+ new Zpos  -151.971591182237     
+ new Zpos  -151.973389943922     
+ new Zpos  -151.975188702565     
+ new Zpos  -151.976987458168     
+ new Zpos  -151.978786210729     
+ new Zpos  -151.980584960248     
+ new Zpos  -151.982383706726     
+ new Zpos  -151.984182450163     
+ new Zpos  -151.985981190558     
+ new Zpos  -151.987779927912     
+ new Zpos  -151.989578662223     
+ new Zpos  -151.991377393493     
+ new Zpos  -151.993176121721     
+ new Zpos  -151.994974846907     
+ new Zpos  -151.996773569051     
+ new Zpos  -151.998572288153     
+ new Zpos  -152.000371004212     
+ new Zpos  -152.002169717229     
+ new Zpos  -152.003968427204     
+ write output to file, day =   0.791666666666667     
+ existing matrix,stepf=          40
+ new Zpos  -152.005767134137     
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ existing matrix,stepf=          40
+ new Zpos  -152.007565838027     
+ new Zpos  -152.009364538874     
+ new Zpos  -152.011163236679     
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ new Zpos  -152.012961931441     
+ existing matrix,stepf=          43
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ new Zpos  -152.014760623161     
+ new Zpos  -152.016559311837     
+ new Zpos  -152.018357997471     
+ new Zpos  -152.020156680061     
+ new Zpos  -152.021955359609     
+ new Zpos  -152.023754036113     
+ new Zpos  -152.025552709574     
+ new Zpos  -152.027351379991     
+ new Zpos  -152.029150047366     
+ new Zpos  -152.030948711697     
+ new Zpos  -152.032747372984     
+ new Zpos  -152.034546031228     
+ new Zpos  -152.036344686427     
+ new Zpos  -152.038143338584     
+ new Zpos  -152.039941987696     
+ new Zpos  -152.041740633765     
+ new Zpos  -152.043539276789     
+ new Zpos  -152.045337916770     
+ new Zpos  -152.047136553706     
+ new Zpos  -152.048935187598     
+ new Zpos  -152.050733818446     
+ new Zpos  -152.052532446249     
+ new Zpos  -152.054331071008     
+ new Zpos  -152.056129692723     
+ new Zpos  -152.057928311393     
+ existing matrix,stepf=          41
+ new Zpos  -152.059726927018     
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          41
+ existing matrix,stepf=          42
+ existing matrix,stepf=          41
+ existing matrix,stepf=          42
+ existing matrix,stepf=          41
+ new Zpos  -152.061525539599     
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          44
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ new Zpos  -152.063324149135     
+ new Zpos  -152.065122755625     
+ new Zpos  -152.066921359071     
+ new Zpos  -152.068719959472     
+ new Zpos  -152.070518556828     
+ new Zpos  -152.072317151139     
+ new Zpos  -152.074115742404     
+ new Zpos  -152.075914330624     
+ new Zpos  -152.077712915799     
+ new Zpos  -152.079511497928     
+ new Zpos  -152.081310077012     
+ new Zpos  -152.083108653050     
+ new Zpos  -152.084907226042     
+ new Zpos  -152.086705795989     
+ new Zpos  -152.088504362890     
+ new Zpos  -152.090302926744     
+ new Zpos  -152.092101487553     
+ new Zpos  -152.093900045316     
+ new Zpos  -152.095698600033     
+ new Zpos  -152.097497151703     
+ new Zpos  -152.099295700327     
+ new Zpos  -152.101094245905     
+ new Zpos  -152.102892788436     
+ new Zpos  -152.104691327921     
+ new Zpos  -152.106489864360     
+ new Zpos  -152.108288397751     
+ new Zpos  -152.110086928096     
+ new Zpos  -152.111885455394     
+ write output to file, day =   0.833333333333333     
+ existing matrix,stepf=          43
+ existing matrix,stepf=          45
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          42
+ new Zpos  -152.113683979645     
+ existing matrix,stepf=          43
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          43
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ existing matrix,stepf=          42
+ new Zpos  -152.115482500849     
+ new Zpos  -152.117281019007     
+ new Zpos  -152.119079534117     
+ new Zpos  -152.120878046180     
+ new Zpos  -152.122676555195     
+ new Zpos  -152.124475061163     
+ new Zpos  -152.126273564084     
+ new Zpos  -152.128072063958     
+ new Zpos  -152.129870560784     
+ new Zpos  -152.131669054562     
+ new Zpos  -152.133467545292     
+ new Zpos  -152.135266032975     
+ new Zpos  -152.137064517610     
+ new Zpos  -152.138862999197     
+ new Zpos  -152.140661477736     
+ new Zpos  -152.142459953227     
+ new Zpos  -152.144258425670     
+ new Zpos  -152.146056895064     
+ new Zpos  -152.147855361411     
+ new Zpos  -152.149653824709     
+ new Zpos  -152.151452284958     
+ new Zpos  -152.153250742159     
+ new Zpos  -152.155049196311     
+ new Zpos  -152.156847647415     
+ new Zpos  -152.158646095470     
+ new Zpos  -152.160444540476     
+ new Zpos  -152.162242982433     
+ new Zpos  -152.164041421342     
+ new Zpos  -152.165839857201     
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          46
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          43
+ new Zpos  -152.167638290011     
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          43
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          43
+ new Zpos  -152.169436719772     
+ new Zpos  -152.171235146484     
+ new Zpos  -152.173033570146     
+ new Zpos  -152.174831990759     
+ new Zpos  -152.176630408323     
+ new Zpos  -152.178428822837     
+ new Zpos  -152.180227234301     
+ new Zpos  -152.182025642715     
+ new Zpos  -152.183824048080     
+ new Zpos  -152.185622450395     
+ new Zpos  -152.187420849660     
+ new Zpos  -152.189219245875     
+ new Zpos  -152.191017639040     
+ new Zpos  -152.192816029155     
+ new Zpos  -152.194614416219     
+ new Zpos  -152.196412800234     
+ new Zpos  -152.198211181198     
+ new Zpos  -152.200009559111     
+ new Zpos  -152.201807933974     
+ new Zpos  -152.203606305786     
+ new Zpos  -152.205404674548     
+ new Zpos  -152.207203040259     
+ existing matrix,stepf=          45
+ existing matrix,stepf=          47
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ new Zpos  -152.209001402919     
+ new Zpos  -152.210799762528     
+ new Zpos  -152.212598119086     
+ new Zpos  -152.214396472594     
+ new Zpos  -152.216194823050     
+ new Zpos  -152.217993170455     
+ new Zpos  -152.219791514808     
+ write output to file, day =   0.875000000000000     
+ existing matrix,stepf=          44
+ new Zpos  -152.221589856110     
+ existing matrix,stepf=          44
+ existing matrix,stepf=          45
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          45
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ existing matrix,stepf=          44
+ new Zpos  -152.223388194361     
+ new Zpos  -152.225186529561     
+ new Zpos  -152.226984861709     
+ new Zpos  -152.228783190805     
+ new Zpos  -152.230581516849     
+ new Zpos  -152.232379839842     
+ new Zpos  -152.234178159783     
+ new Zpos  -152.235976476672     
+ new Zpos  -152.237774790509     
+ new Zpos  -152.239573101293     
+ new Zpos  -152.241371409026     
+ new Zpos  -152.243169713707     
+ new Zpos  -152.244968015335     
+ new Zpos  -152.246766313911     
+ new Zpos  -152.248564609434     
+ new Zpos  -152.250362901905     
+ new Zpos  -152.252161191323     
+ new Zpos  -152.253959477688     
+ existing matrix,stepf=          48
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ new Zpos  -152.255757761001     
+ new Zpos  -152.257556041261     
+ new Zpos  -152.259354318468     
+ new Zpos  -152.261152592622     
+ new Zpos  -152.262950863723     
+ new Zpos  -152.264749131771     
+ new Zpos  -152.266547396766     
+ new Zpos  -152.268345658707     
+ new Zpos  -152.270143917596     
+ new Zpos  -152.271942173430     
+ new Zpos  -152.273740426211     
+ existing matrix,stepf=          45
+ new Zpos  -152.275538675939     
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          45
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ new Zpos  -152.277336922613     
+ new Zpos  -152.279135166233     
+ new Zpos  -152.280933406800     
+ new Zpos  -152.282731644313     
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ new Zpos  -152.284529878771     
+ new Zpos  -152.286328110176     
+ new Zpos  -152.288126338527     
+ new Zpos  -152.289924563823     
+ new Zpos  -152.291722786065     
+ existing matrix,stepf=           1
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ new Zpos  -152.293521005253     
+ new Zpos  -152.295319221387     
+ new Zpos  -152.297117434466     
+ new Zpos  -152.298915644491     
+ new Zpos  -152.300713851461     
+ new Zpos  -152.302512055376     
+ new Zpos  -152.304310256237     
+ new Zpos  -152.306108454042     
+ new Zpos  -152.307906648793     
+ new Zpos  -152.309704840489     
+ new Zpos  -152.311503029130     
+ new Zpos  -152.313301214716     
+ new Zpos  -152.315099397246     
+ new Zpos  -152.316897576721     
+ new Zpos  -152.318695753141     
+ new Zpos  -152.320493926506     
+ new Zpos  -152.322292096815     
+ new Zpos  -152.324090264068     
+ new Zpos  -152.325888428266     
+ new Zpos  -152.327686589408     
+ write output to file, day =   0.916666666666667     
+ existing matrix,stepf=          46
+ new Zpos  -152.329484747494     
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ existing matrix,stepf=          46
+ new Zpos  -152.331282902525     
+ new Zpos  -152.333081054499     
+ new Zpos  -152.334879203418     
+ new Zpos  -152.336677349280     
+ new Zpos  -152.338475492087     
+ new Zpos  -152.340273631837     
+ existing matrix,stepf=           2
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ new Zpos  -152.342071768530     
+ new Zpos  -152.343869902168     
+ new Zpos  -152.345668032749     
+ new Zpos  -152.347466160273     
+ new Zpos  -152.349264284741     
+ new Zpos  -152.351062406152     
+ new Zpos  -152.352860524506     
+ new Zpos  -152.354658639804     
+ new Zpos  -152.356456752044     
+ new Zpos  -152.358254861228     
+ new Zpos  -152.360052967354     
+ new Zpos  -152.361851070424     
+ new Zpos  -152.363649170436     
+ new Zpos  -152.365447267391     
+ new Zpos  -152.367245361289     
+ new Zpos  -152.369043452129     
+ new Zpos  -152.370841539912     
+ new Zpos  -152.372639624637     
+ new Zpos  -152.374437706305     
+ new Zpos  -152.376235784914     
+ new Zpos  -152.378033860467     
+ new Zpos  -152.379831932961     
+ new Zpos  -152.381630002397     
+ existing matrix,stepf=          47
+ new Zpos  -152.383428068775     
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ /vol/home/student/YinHQ/roms/ideal/loop_his_0000.nc
+ existing matrix,stepf=          48
+ existing matrix,stepf=          48
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ existing matrix,stepf=          47
+ new Zpos  -152.385226132095     
+ new Zpos  -152.387024192358     
+ new Zpos  -152.388822249561     
+ existing matrix,stepf=           3
+ new Zpos  -152.390620303707     
+ existing matrix,stepf=           1
+ existing matrix,stepf=           1
+ existing matrix,stepf=           1
+ existing matrix,stepf=           1
+ existing matrix,stepf=           1
+ existing matrix,stepf=           1
+ new Zpos  -152.392418354794     
+ new Zpos  -152.394216402823     
+ new Zpos  -152.396014447793     
+ new Zpos  -152.397812489704     
+ new Zpos  -152.399610528557     
+ new Zpos  -152.401408564351     
+ new Zpos  -152.403206597086     
+ new Zpos  -152.405004626763     
+ new Zpos  -152.406802653380     
+ new Zpos  -152.408600676939     
+ new Zpos  -152.410398697438     
+ new Zpos  -152.412196714878     
+ new Zpos  -152.413994729259     
+ new Zpos  -152.415792740580     
+ new Zpos  -152.417590748842     
+ new Zpos  -152.419388754045     
+ new Zpos  -152.421186756188     
+ new Zpos  -152.422984755271     
+ new Zpos  -152.424782751295     
+ new Zpos  -152.426580744259     
+ new Zpos  -152.428378734163     
+ new Zpos  -152.430176721007     
+yhrun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+ new Zpos  -152.431974704791     
+yhrun: got SIGCONT
+slurmd[cn2]: *** STEP 754134.0 CANCELLED AT 2018-09-02T20:01:05 ***
+yhrun: forcing job termination
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002AB0916C04A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559177  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002AB092185CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002AF2EBD5A4A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005556E2  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF21  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002AF2EC81FCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B2D599864A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559177  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B2D5A44BCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B8998D634A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559299  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B8999828CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B01A01844A0  Unknown               Unknown  Unknown
+LTRANS.exe         000000000069171B  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000642A6D  Unknown               Unknown  Unknown
+LTRANS.exe         000000000042F69F  Unknown               Unknown  Unknown
+LTRANS.exe         000000000042E9F7  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040F29B  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004171D6  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B01A0C49CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002AE2B19A54A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005592B1  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002AE2B246ACDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B083E1654A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559299  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B083EC2ACDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B4AA3ED74A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005580C2  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B4AA499CCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B00AF0EC4A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005556C1  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF21  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B00AFBB1CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002BA88FCAA4A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559177  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002BA89076FCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B440AD514A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005592C0  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B440B816CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B83BE7614A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005580C2  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B83BF226CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B8510D664A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559177  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B851182BCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B3DFF0224A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559299  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B3DFFAE7CDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002ACD2DE674A0  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000559299  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002ACD2E92CCDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+LTRANS.exe         0000000000691021  Unknown               Unknown  Unknown
+LTRANS.exe         000000000068F777  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644414  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000644226  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005FCAEF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000006004DB  Unknown               Unknown  Unknown
+libpthread.so.0    00002B219C0D54A0  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005592C0  Unknown               Unknown  Unknown
+LTRANS.exe         000000000054FF4D  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005208AF  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005CFE0A  Unknown               Unknown  Unknown
+LTRANS.exe         00000000005D0225  Unknown               Unknown  Unknown
+LTRANS.exe         000000000051E593  Unknown               Unknown  Unknown
+LTRANS.exe         00000000004F8907  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041A649  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041AFCB  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B118  Unknown               Unknown  Unknown
+LTRANS.exe         000000000041B1F1  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406993  Unknown               Unknown  Unknown
+LTRANS.exe         000000000040690E  Unknown               Unknown  Unknown
+libc.so.6          00002B219CB9ACDD  Unknown               Unknown  Unknown
+LTRANS.exe         0000000000406819  Unknown               Unknown  Unknown
+yhrun: error: cn2: tasks 0-15: Exited with exit code 1

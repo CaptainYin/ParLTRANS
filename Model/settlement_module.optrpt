@@ -1,0 +1,238 @@
+
+Begin optimization report for: SETTLEMENT_MOD::TESTSETTLEMENT
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(554,9) inlined into settlement_module.f90(504,12)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9) inlined into settlement_module.f90(504,12)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9) inlined into settlement_module.f90(504,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9) inlined into settlement_module.f90(504,12)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9) inlined into settlement_module.f90(510,16)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9) inlined into settlement_module.f90(510,16)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9) inlined into settlement_module.f90(510,16)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9) inlined into settlement_module.f90(510,16)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: SETTLEMENT_MOD::PSETTLE
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(554,9)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(554,9)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: SETTLEMENT_MOD::HSETTLE
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(603,9)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(603,9)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: SETTLEMENT_MOD::GETHABITAT
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(179,5)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(179,5)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(179,5)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(180,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(230,7)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(230,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(230,7)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(231,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: SETTLEMENT_MOD::CREATEPOLYSPECS
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(275,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at settlement_module.f90(275,5)
+      remark #25460: No loop optimizations reported
+
+      LOOP BEGIN at settlement_module.f90(275,5)
+      <Peeled>
+      LOOP END
+
+      LOOP BEGIN at settlement_module.f90(275,5)
+         remark #15300: LOOP WAS VECTORIZED
+      LOOP END
+
+      LOOP BEGIN at settlement_module.f90(275,5)
+      <Remainder>
+      LOOP END
+   LOOP END
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(345,20)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(352,13)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(352,13)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(352,13)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(352,13)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(433,9)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: SETTLEMENT_MOD::INITSETTLEMENT
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at settlement_module.f90(82,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(82,5)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(89,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(89,5)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(92,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at settlement_module.f90(92,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at settlement_module.f90(92,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at settlement_module.f90(92,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Peeled, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Peeled, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at settlement_module.f90(94,5)
+<Remainder, Multiversioned v2>
+LOOP END
+===========================================================================

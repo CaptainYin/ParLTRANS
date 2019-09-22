@@ -1,0 +1,14 @@
+
+Begin optimization report for: INT_MOD::POLINTD
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at interpolation_module.f90(82,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at interpolation_module.f90(82,5)
+<Remainder>
+LOOP END
+===========================================================================

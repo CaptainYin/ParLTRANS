@@ -1,0 +1,192 @@
+
+Begin optimization report for: RANDOM_MOD::GENRAND_INT32
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(170,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::GENRAND_INT31
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(205,29)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(205,29)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(205,29)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(205,29)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::GENRAND_REAL1
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(216,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(216,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(216,12)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(216,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::GENRAND_REAL2
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(229,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(229,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(229,12)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(229,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::GENRAND_REAL3
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(242,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(242,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(242,12)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(242,12)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::GENRAND_RES53
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(255,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(255,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(255,18)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(255,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(256,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(256,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(175,44) inlined into random_module.f90(256,18)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(178,7) inlined into random_module.f90(256,18)
+   remark #25460: No loop optimizations reported
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::INIT_BY_ARRAY
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(133,10)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(113,5) inlined into random_module.f90(133,10)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(136,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(136,5)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at random_module.f90(149,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(149,5)
+<Remainder>
+LOOP END
+===========================================================================
+
+Begin optimization report for: RANDOM_MOD::INIT_GENRAND
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at random_module.f90(113,5)
+   remark #25460: No loop optimizations reported
+LOOP END
+
+LOOP BEGIN at random_module.f90(113,5)
+<Remainder>
+LOOP END
+===========================================================================

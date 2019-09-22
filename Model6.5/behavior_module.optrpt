@@ -1,0 +1,185 @@
+
+Begin optimization report for: BEHAVIOR_MOD::BEHAVE
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v2>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v1>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Multiversioned v2>
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(243,13)
+<Remainder, Multiversioned v2>
+LOOP END
+===========================================================================
+
+Begin optimization report for: BEHAVIOR_MOD::INITBEHAVE
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at behavior_module.f90(117,7)
+<Peeled>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(117,7)
+   remark #15300: LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(117,7)
+<Remainder>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Peeled, Distributed chunk1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Distributed chunk1>
+   remark #15301: PARTIAL LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Distributed chunk1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Remainder, Distributed chunk1>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Peeled, Distributed chunk2>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Distributed chunk2>
+   remark #15301: PARTIAL LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Distributed chunk2>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Remainder, Distributed chunk2>
+   remark #15301: REMAINDER LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(120,5)
+<Remainder, Distributed chunk2>
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(140,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at behavior_module.f90(140,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(140,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(143,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at behavior_module.f90(143,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(143,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(144,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at behavior_module.f90(144,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(144,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(147,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at behavior_module.f90(147,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(147,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(147,5)
+   <Remainder>
+   LOOP END
+LOOP END
+
+LOOP BEGIN at behavior_module.f90(151,5)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at behavior_module.f90(151,5)
+   <Peeled>
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(151,5)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at behavior_module.f90(151,5)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================

@@ -1,0 +1,18 @@
+
+Begin optimization report for: PIP_MOD::INPOLY
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at point_in_polygon_module.f90(47,3)
+   remark #25460: No loop optimizations reported
+
+   LOOP BEGIN at point_in_polygon_module.f90(47,3)
+      remark #15300: LOOP WAS VECTORIZED
+   LOOP END
+
+   LOOP BEGIN at point_in_polygon_module.f90(47,3)
+   <Remainder>
+   LOOP END
+LOOP END
+===========================================================================
